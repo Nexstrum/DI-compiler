@@ -39,7 +39,8 @@
 	"files": [
 		"dist/**/*.*",
 		"loader.*",
-		"ts-node-loader.*"
+		"ts-node-loader.*",
+		"ttypescript-loader.ts"
 	],
 	"contributors": [
 		{

@@ -40,7 +40,7 @@
 		"dist/**/*.*",
 		"loader.*",
 		"ts-node-loader.*",
-		"ttypescript-loader.ts"
+		"ttypescript-transformer.cjs"
 	],
 	"contributors": [
 		{

@@ -1,3 +1,5 @@
+## [4.0.2](https://github.com/wessberg/di-compiler/compare/v4.0.1...v4.0.2) (2024-10-31)
+
 ## [4.0.1](https://github.com/wessberg/di-compiler/compare/v4.0.0...v4.0.1) (2024-10-11)
 
 # [4.0.0](https://github.com/wessberg/di-compiler/compare/v4.0.0-beta.1...v4.0.0) (2024-10-10)

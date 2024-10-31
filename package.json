@@ -135,6 +135,10 @@
 	"types": "./dist/index.d.ts",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
+	"funding": {
+		"type": "github",
+		"url": "https://github.com/wessberg/di-compiler?sponsor=1"
+	},
 	"engines": {
 		"node": ">=18.20.0"
 	},
